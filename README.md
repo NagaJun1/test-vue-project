@@ -12,11 +12,16 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
 
 ## Project Setup
 
+プロジェクトを新規作成（クローン）した場合、プロジェクトフォルダで以下を実行
+
 ```sh
 npm install
 ```
 
 ### Compile and Hot-Reload for Development
+
+以下コマンドで、アプリ立ち上げ
+「dev」「build」「preview」をオプションで選択
 
 ```sh
 npm run dev
